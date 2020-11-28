@@ -1,6 +1,6 @@
 # Practice Exam Questions
 
-
+Reach out on [![Gitter](https://badges.gitter.im/Azure-Security-Engineer-Associate-Prep/community.svg)](https://gitter.im/Azure-Security-Engineer-Associate-Prep/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
 
