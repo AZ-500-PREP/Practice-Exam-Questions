@@ -11,6 +11,6 @@
 
 
 
-## Explantation
+## Explanation
 
 
